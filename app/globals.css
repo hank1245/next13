@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #0070f3;
+  --primary-color: #102a48;
 }
 
 html,
@@ -51,7 +51,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #0047ab;
+  background-color: #1f3452;
   color: #fff;
   padding: 1rem;
   border-bottom: 5px solid #fff;
